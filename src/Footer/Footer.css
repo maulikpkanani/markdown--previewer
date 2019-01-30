@@ -1,0 +1,21 @@
+footer {
+	background: #237ba0;
+	height: 3rem;
+	text-align: center;
+}
+p {
+	color: #eff5ff;
+	padding: 0.7rem 0;
+	font-size: 1.2rem;
+}
+
+a {
+	text-decoration: none;
+	color: orange;
+	border-bottom: 1px solid transparent;
+	transition: all 0.3s ease-out;
+}
+a:hover {
+	color: #ccc;
+	border-bottom: 1px solid orange;
+}
